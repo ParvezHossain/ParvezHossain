@@ -27,11 +27,12 @@ Seasoned Software Engineer with a passion for crafting effective solutions to co
 - **Version Control**: Git
 - **Frontend**: HTML, jQuery, Kendo UI
 - **APIs**: REST, GraphQL
-- **Other**: Redis, Scrum, Object-Oriented Programming
+- **Other**: Data Structure, Problem Solving, Redis, Scrum, Object-Oriented Programming
 
 ## Contact Information
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/parvez-hossain).
+Email me on: ... .[parvezhossain724@gmail.com].
 
 Let's connect and explore new horizons together!
 
