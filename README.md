@@ -32,7 +32,9 @@ Seasoned Software Engineer with a passion for crafting effective solutions to co
 ## Contact Information
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/parvez-hossain).
-Email me on: ... .[parvezhossain724@gmail.com].
+
+Email me at: [parvezhossain724@gmail.com](mailto:parvezhossain724@gmail.com).
+
 
 Let's connect and explore new horizons together!
 
