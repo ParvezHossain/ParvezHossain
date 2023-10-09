@@ -21,7 +21,7 @@ Seasoned Software Engineer with a passion for crafting effective solutions to co
 
 - **Languages**: Bash, JavaScript, PHP, Go, SQL, TypeScript
 - **Web Development**: Angular, Node.js, Express.js, Nest.js
-- **Database**: MongoDB, MySQL
+- **Database**: MongoDB, MySQL, PostgreSQL
 - **Frameworks**: Laravel, Express.js, Nest.js
 - **DevOps**: Docker, Nginx, Linux
 - **Version Control**: Git
@@ -31,7 +31,7 @@ Seasoned Software Engineer with a passion for crafting effective solutions to co
 
 ## Contact Information
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/parvez-hossain).
 
 Let's connect and explore new horizons together!
 
