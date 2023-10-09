@@ -29,6 +29,11 @@ Seasoned Software Engineer with a passion for crafting effective solutions to co
 - **APIs**: REST, GraphQL
 - **Other**: Data Structure, Problem Solving, Redis, Scrum, Object-Oriented Programming
 
+- 🔭 **Current Work**: Data scraping using Python for a new project. Collecting, persisting, and analyzing data to enhance client productivity.
+
+- 🌱 **Current Learning**: Advanced SQL queries for handling large datasets, with a goal to excel in data analysis and data science.
+
+
 ## Contact Information
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/parvez-hossain).
