@@ -59,6 +59,14 @@ sensors. Parvez is adept at creating efficient solutions for complex industrial 
 
 - 🌱 **Current Learning**: Advanced SQL queries for handling large datasets, with a goal to excel in data analysis and data science.
 
+## Online Profiles
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/parvez-hossain)
+- **HackerRank**: [Your HackerRank Profile](https://www.hackerrank.com/profile/Parvez_Java)
+- **GitHub**: [Your GitHub Profile](https://github.com/ParvezHossain)
+- **LeetCode**: [Your LeetCode Profile](https://leetcode.com/your-profile)
+- **Codeforces**: [Your Codeforces Profile](https://codeforces.com/profile/your-profile)
+
 
 ## Contact Information
 
