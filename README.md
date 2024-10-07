@@ -10,16 +10,36 @@ sensors. Parvez is adept at creating efficient solutions for complex industrial 
 
 ## Professional Experience
 
-### Senior Software Engineer at Schertech
+### Senior Software Engineer at SCT Bangla Limited (Oct 2019 – Present)  
+**Location:** Dhaka, Bangladesh
 
-- **Responsibility and Leadership**: Always ready to take the responsibility for leading any new module or getting the job done on time.
-- **Sensor-Based Devices**: Proficient in working with sensor-based devices like PLC, Andino, and Raspberry Pi.
-- **Migration Expertise**: Led the successful migration of critical project modules from raw PHP to Laravel, resulting in enhanced operational efficiency.
-- **Industry 4.0 Technology**: Championed industry 4.0 technology, spearheading the development of innovative solutions.
-- **DevOps Experience**: Part-time DevOps Engineer with expertise in Docker, Nginx, and enhancing Linux security.
-- **Methodology Adherence**: Dedicated practitioner of Scrum methodology, driving best practices, clean code, and SOLID principles.
-- **Mentorship**: Actively mentor junior developers, fostering their growth and practical contributions.
-- **Database Optimization**: Helped the development team write optimized database queries.
+- **Data Collection & Industrial Systems**: Implemented data collection mechanisms from Industry 4.0 microcontroller diecasting machines via TCP/UDP sockets, integrating data streams from Raspberry Pi, HMI, and PLC into a centralized system.
+- **Energy Consumption Tracking**: Developed real-time energy consumption tracking solutions for diecasting machines using MODBUS protocol.
+- **Automation System Development**: Developed a centralized system, similar to Ansible, for configuring and updating over 10,000 Raspberry Pi devices across multiple locations, reducing manual errors and improving operational efficiency.
+- **Database Optimization**: Optimized MySQL database queries, reducing page load times by 15% and enhancing application performance.
+- **Reporting & Visualization**: Designed and developed web-based interfaces for visualizing processed data in charts and graphs, and created comprehensive reporting modules.
+- **DevOps & Docker**: Dockerized a PHP project for seamless deployment on the Business Technology Platform (BTP), ensuring consistency and simplifying the deployment process. Part-time DevOps Engineer, managing software deployment pipelines and infrastructure.
+- **Mentorship**: Provided dedicated mentorship and guidance to junior and intern developers, helping them integrate into the team and fostering their professional growth.
+
+---
+
+### Freelance Software Engineer at eDorpon (Apr 2018 – Sep 2019)  
+**Location:** Dhaka, Bangladesh
+
+- **CRUD Development**: Developed CRUD functionalities using Laravel and CodeIgniter frameworks.
+- **Backend Logic Implementation**: Implemented backend logic for data persistence and designed front-end interfaces for user interaction.
+- **Blade Template Usage**: Utilized Blade templates for rendering dynamic content and forms.
+
+---
+
+### Software Engineer Intern at DataCraft Limited (Oct 2018 – Sep 2019)  
+**Location:** Dhaka, Bangladesh
+
+- **Form Validation & Data Security**: Implemented form validation and secure data transmission using PHP and Ajax.
+- **Backend Development**: Developed backend PHP scripts to handle CRUD operations and interact with the database.
+
+
+
 
 ## Technical Skills
 
