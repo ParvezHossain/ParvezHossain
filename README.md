@@ -2,7 +2,11 @@
 
 ## Introduction
 
-Seasoned Software Engineer with a passion for crafting effective solutions to complex challenges. With 5 years of hands-on experience, I specialize in delivering impactful results through innovative problem-solving and collaborative leadership.
+Parvez Hossain is a software developer with over 5 years of experience, specializing in SAP software, Industry
+4.0, IIOT, and microcontrollers. He has successfully developed an automation system similar to Ansible,
+reducing manual configuration efforts for over 10,000 Raspberry Pi devices. His expertise extends to
+developing software for Industry 4.0 machines and working with energy, electricity consumption, and thermal
+sensors. Parvez is adept at creating efficient solutions for complex industrial systems.
 
 ## Professional Experience
 
