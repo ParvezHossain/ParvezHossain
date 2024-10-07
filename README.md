@@ -13,6 +13,8 @@ sensors. Parvez is adept at creating efficient solutions for complex industrial 
 ### Senior Software Engineer at SCT Bangla Limited (Oct 2019 – Present)  
 **Location:** Dhaka, Bangladesh
 
+- **Quantity Booking and Packaging**: Automated the quantity booking and packaging workflow to optimize inventory and shipping operations. (SAP Manufacturing Modules)
+- **Stock and Assembly Management**: Developed modules to track stock levels, manage assembly lines, and ensure accurate Bill of Materials (BOM). (SAP Manufacturing Modules)
 - **Data Collection & Industrial Systems**: Implemented data collection mechanisms from Industry 4.0 microcontroller diecasting machines via TCP/UDP sockets, integrating data streams from Raspberry Pi, HMI, and PLC into a centralized system.
 - **Energy Consumption Tracking**: Developed real-time energy consumption tracking solutions for diecasting machines using MODBUS protocol.
 - **Automation System Development**: Developed a centralized system, similar to Ansible, for configuring and updating over 10,000 Raspberry Pi devices across multiple locations, reducing manual errors and improving operational efficiency.
